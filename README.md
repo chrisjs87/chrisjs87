@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him/They/Them
 - ⚡ Fun fact: I am a plant fanatic 🌱 I have well over 50 plant varieties that I care for and enjoy
 
-- <!-- 
+<!-- 
 - 🤔 I’m looking for help with ... nothing, I'm doing alright!
 - 💬 Ask me about ...   -->
 
