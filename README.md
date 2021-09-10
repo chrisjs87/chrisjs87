@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, here is what I am working on 👋
 
-<!--
-**chrisjs87/chrisjs87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... HRF Asylum, an app empowering lawyers to better represent their aslyum seekrs with actionable data
+- 🌱 I’m currently learning ... ant design
+- 👯 I’m looking to collaborate on ... humanitarian projects that make the world a better place
+- <!-- 
+- 🤔 I’m looking for help with ... nothing, I'm doing alright!
+- 💬 Ask me about ...   -->
+- 📫 How to reach me: christopher.scrantom@gmail.com 214-883-0485
+- 😄 Pronouns: He/Him/They/Them
+- ⚡ Fun fact: I am a plant fanatic 🌱 I have well over 50 plant varieties that I care for and enjoy
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
